@@ -1,0 +1,8 @@
+build/
+.DS_Store
+.vscode/
+*.o
+*.out
+*.exe
+data/*.dat
+reports/*
